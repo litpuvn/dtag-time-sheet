@@ -1,0 +1,241 @@
+Mã N.Viên,Tên nhân viên,Phòng ban,Chức vụ,Ngày,Thứ,Vào 1,Ra 1,Vào 2,Ra 2,Vào 3,Ra 3,Công,Giờ,Công+,Giờ+,Vào Trễ,Ra sớm,TC1,TC2,TC3,Tên ca,Kí hiệu,Kí hiệu+,Tổng giờ
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/1/2017,Sáu,07:56,21:16,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/2/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/3/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/4/2017,Hai,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/5/2017,Ba,07:49,19:17,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/6/2017,Tư,07:59,19:58,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/7/2017,Năm,07:57,18:27,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/8/2017,Sáu,07:56,23:33,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/9/2017,Bảy,09:05,17:53,,,,,0.86,6.92,0,0,65,0,0,0,0,Hành Chính,Tr,,6.92
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/10/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/11/2017,Hai,08:10,19:30,,,,,0.98,7.83,0,0,10,0,0,0,0,Hành Chính,Tr,,7.83
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/12/2017,Ba,07:52,19:23,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/13/2017,Tư,08:09,19:44,,,,,0.98,7.85,0,0,9,0,0,0,0,Hành Chính,Tr,,7.85
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/14/2017,Năm,07:47,21:47,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/15/2017,Sáu,08:13,18:33,,,,,0.97,7.78,0,0,13,0,0,0,0,Hành Chính,Tr,,7.78
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/16/2017,Bảy,08:26,16:41,,,,,0.84,6.75,0,0,26,49,0,0,0,Hành Chính,TrSm,,6.75
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/17/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/18/2017,Hai,08:19,20:14,,,,,0.96,7.68,0,0,19,0,0,0,0,Hành Chính,Tr,,7.68
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/19/2017,Ba,08:03,21:39,,,,,0.99,7.95,0,0,3,0,0,0,0,Hành Chính,Tr,,7.95
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/20/2017,Tư,07:53,21:09,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/21/2017,Năm,07:56,20:08,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/22/2017,Sáu,07:45,21:19,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/23/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/24/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/25/2017,Hai,08:15,19:16,,,,,0.97,7.75,0,0,15,0,0,0,0,Hành Chính,Tr,,7.75
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/26/2017,Ba,07:51,20:01,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/27/2017,Tư,07:58,19:57,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/28/2017,Năm,07:53,20:09,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/29/2017,Sáu,07:56,21:05,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00003,Phạm Thị Hà,Văn phòng,TP Kiểm thử,9/30/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/1/2017,Sáu,08:07,18:32,,,,,0.99,7.88,0,0,7,0,0,0,0,Hành Chính,Tr,,7.88
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/2/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/3/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/4/2017,Hai,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/5/2017,Ba,08:21,18:02,,,,,0.96,7.65,0,0,21,0,0,0,0,Hành Chính,Tr,,7.65
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/6/2017,Tư,08:04,18:25,,,,,0.99,7.93,0,0,4,0,0,0,0,Hành Chính,Tr,,7.93
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/7/2017,Năm,07:40,18:01,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/8/2017,Sáu,08:00,17:36,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/9/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/10/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/11/2017,Hai,07:48,16:31,,,,,0.88,7.02,0,0,0,59,0,0,0,Hành Chính,Sm,,7.02
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/12/2017,Ba,08:00,17:33,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/13/2017,Tư,08:00,17:51,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/14/2017,Năm,07:57,18:12,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/15/2017,Sáu,07:47,,,,,,0,0,0,0,0,0,0,0,0,Hành Chính,KR,,0
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/16/2017,Bảy,07:50,11:04,,,,,0.38,3.07,0,0,0,296,0,0,0,Hành Chính,Sm,,3.07
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/17/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/18/2017,Hai,07:54,19:22,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/19/2017,Ba,07:40,19:59,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/20/2017,Tư,08:00,19:07,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/21/2017,Năm,07:41,19:37,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/22/2017,Sáu,07:58,18:15,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/23/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/24/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/25/2017,Hai,08:00,17:53,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/26/2017,Ba,07:49,,,,,,0,0,0,0,0,0,0,0,0,Hành Chính,KR,,0
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/27/2017,Tư,07:59,17:30,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/28/2017,Năm,08:15,17:31,,,,,0.97,7.75,0,0,15,0,0,0,0,Hành Chính,Tr,,7.75
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/29/2017,Sáu,07:44,18:32,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00004,Trần Trung Hiếu,Văn phòng,TP Web,9/30/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/1/2017,Sáu,07:55,19:05,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/2/2017,Bảy,14:09,14:10,,,,,0,0.02,0,0,279,200,0,0,0,Hành Chính,TrSm,,0.02
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/3/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/4/2017,Hai,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/5/2017,Ba,07:54,17:56,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/6/2017,Tư,07:59,18:35,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/7/2017,Năm,07:54,17:49,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/8/2017,Sáu,07:58,18:54,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/9/2017,Bảy,08:22,15:55,,,,,0.76,6.05,0,0,22,95,0,0,0,Hành Chính,TrSm,,6.05
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/10/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/11/2017,Hai,07:57,17:55,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/12/2017,Ba,07:56,17:55,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/13/2017,Tư,07:59,18:12,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/14/2017,Năm,08:00,13:50,,,,,0.54,4.33,0,0,0,220,0,0,0,Hành Chính,Sm,,4.33
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/15/2017,Sáu,07:58,17:58,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/16/2017,Bảy,07:49,12:21,,,,,0.47,3.75,0,0,0,255,0,0,0,Hành Chính,Sm,,3.75
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/17/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/18/2017,Hai,07:54,18:40,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/19/2017,Ba,07:52,19:53,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/20/2017,Tư,07:53,18:38,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/21/2017,Năm,07:56,18:08,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/22/2017,Sáu,07:59,,,,,,0,0,0,0,0,0,0,0,0,Hành Chính,KR,,0
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/23/2017,Bảy,08:31,,,,,,0,0,0,0,31,0,0,0,0,Hành Chính,KR,,0
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/24/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/25/2017,Hai,07:58,17:26,,,,,0.99,7.93,0,0,0,4,0,0,0,Hành Chính,Sm,,7.93
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/26/2017,Ba,08:00,18:00,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/27/2017,Tư,08:01,17:30,,,,,1,7.98,0,0,1,0,0,0,0,Hành Chính,Tr,,7.98
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/28/2017,Năm,07:56,18:21,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/29/2017,Sáu,07:59,18:22,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00005,Lê Trường Giang,Văn phòng,TP Pha trà,9/30/2017,Bảy,11:01,12:20,,,,,0.09,0.73,0,0,181,255,0,0,0,Hành Chính,TrSm,,0.73
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/1/2017,Sáu,07:49,18:39,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/2/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/3/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/4/2017,Hai,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/5/2017,Ba,07:54,18:45,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/6/2017,Tư,07:50,18:22,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/7/2017,Năm,07:48,17:49,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/8/2017,Sáu,07:58,18:09,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/9/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/10/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/11/2017,Hai,07:52,17:57,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/12/2017,Ba,07:49,18:24,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/13/2017,Tư,07:52,19:04,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/14/2017,Năm,07:57,18:56,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/15/2017,Sáu,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/16/2017,Bảy,07:50,13:07,,,,,0.47,3.75,0,0,0,255,0,0,0,Hành Chính,Sm,,3.75
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/17/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/18/2017,Hai,07:59,17:46,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/19/2017,Ba,08:00,17:58,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/20/2017,Tư,07:54,19:01,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/21/2017,Năm,07:56,18:19,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/22/2017,Sáu,07:50,,,,,,0,0,0,0,0,0,0,0,0,Hành Chính,KR,,0
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/23/2017,Bảy,09:19,15:01,,,,,0.52,4.2,0,0,79,149,0,0,0,Hành Chính,TrSm,,4.2
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/24/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/25/2017,Hai,07:48,17:52,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/26/2017,Ba,07:53,18:19,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/27/2017,Tư,07:56,18:25,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/28/2017,Năm,07:56,18:20,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/29/2017,Sáu,07:58,18:28,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00006,Hà Thế Dũng,Văn phòng,Nhân viên,9/30/2017,Bảy,09:22,,,,,,0,0,0,0,82,0,0,0,0,Hành Chính,KR,,0
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/1/2017,Sáu,08:00,17:56,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/2/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/3/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/4/2017,Hai,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/5/2017,Ba,08:00,18:14,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/6/2017,Tư,07:59,18:48,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/7/2017,Năm,07:58,19:12,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/8/2017,Sáu,07:58,17:37,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/9/2017,Bảy,09:32,16:49,,,,,0.72,5.78,0,0,92,41,0,0,0,Hành Chính,TrSm,,5.78
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/10/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/11/2017,Hai,07:56,17:58,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/12/2017,Ba,08:01,17:40,,,,,1,7.98,0,0,1,0,0,0,0,Hành Chính,Tr,,7.98
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/13/2017,Tư,07:57,17:36,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/14/2017,Năm,08:00,18:12,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/15/2017,Sáu,07:55,17:50,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/16/2017,Bảy,07:50,12:11,,,,,0.47,3.75,0,0,0,255,0,0,0,Hành Chính,Sm,,3.75
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/17/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/18/2017,Hai,07:59,19:56,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/19/2017,Ba,07:56,20:21,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/20/2017,Tư,07:58,19:08,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/21/2017,Năm,08:00,18:25,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/22/2017,Sáu,07:56,16:39,,,,,0.89,7.15,0,0,0,51,0,0,0,Hành Chính,Sm,,7.15
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/23/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/24/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/25/2017,Hai,15:50,17:34,,,,,0.21,1.67,0,0,380,0,0,0,0,Hành Chính,Tr,,1.67
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/26/2017,Ba,07:55,18:36,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/27/2017,Tư,07:58,19:04,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/28/2017,Năm,07:59,17:37,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/29/2017,Sáu,07:54,20:22,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00009,Bùi Thị Ngọc Phương,Văn phòng,Quản lý HCNS,9/30/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/1/2017,Sáu,07:50,17:55,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/2/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/3/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/4/2017,Hai,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/5/2017,Ba,07:51,18:02,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/6/2017,Tư,07:48,18:47,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/7/2017,Năm,16:52,17:31,,,,,0.08,0.63,0,0,442,0,0,0,0,Hành Chính,Tr,,0.63
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/8/2017,Sáu,07:54,17:36,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/9/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/10/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/11/2017,Hai,07:54,18:09,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/12/2017,Ba,07:59,17:40,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/13/2017,Tư,07:52,17:52,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/14/2017,Năm,07:57,18:13,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/15/2017,Sáu,07:59,17:27,,,,,0.99,7.95,0,0,0,3,0,0,0,Hành Chính,Sm,,7.95
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/16/2017,Bảy,07:46,,,,,,0,0,0,0,0,0,0,0,0,Hành Chính,KR,,0
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/17/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/18/2017,Hai,07:51,14:01,,,,,0.56,4.52,0,0,0,209,0,0,0,Hành Chính,Sm,,4.52
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/19/2017,Ba,07:51,18:01,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/20/2017,Tư,07:52,18:59,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/21/2017,Năm,07:54,17:47,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/22/2017,Sáu,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/23/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/24/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/25/2017,Hai,07:58,17:36,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/26/2017,Ba,07:54,18:05,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/27/2017,Tư,07:55,17:31,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/28/2017,Năm,07:53,17:25,,,,,0.99,7.92,0,0,0,5,0,0,0,Hành Chính,Sm,,7.92
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/29/2017,Sáu,07:50,17:34,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00011,Vũ Văn Nhân,Văn phòng,Nhân viên,9/30/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/1/2017,Sáu,07:27,17:46,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/2/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/3/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/4/2017,Hai,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/5/2017,Ba,07:53,18:52,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/6/2017,Tư,07:44,17:43,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/7/2017,Năm,07:44,17:41,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/8/2017,Sáu,07:55,17:03,,,,,0.94,7.55,0,0,0,27,0,0,0,Hành Chính,Sm,,7.55
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/9/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/10/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/11/2017,Hai,07:59,17:58,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/12/2017,Ba,07:49,17:59,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/13/2017,Tư,07:49,18:05,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/14/2017,Năm,07:51,17:57,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/15/2017,Sáu,07:55,17:50,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/16/2017,Bảy,07:52,12:20,,,,,0.47,3.75,0,0,0,255,0,0,0,Hành Chính,Sm,,3.75
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/17/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/18/2017,Hai,07:48,17:57,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/19/2017,Ba,07:55,17:56,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/20/2017,Tư,07:46,18:34,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/21/2017,Năm,07:50,16:33,,,,,0.88,7.05,0,0,0,57,0,0,0,Hành Chính,Sm,,7.05
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/22/2017,Sáu,07:52,17:44,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/23/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/24/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/25/2017,Hai,07:55,17:46,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/26/2017,Ba,07:58,17:54,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/27/2017,Tư,07:49,17:39,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/28/2017,Năm,07:45,11:51,,,,,0.47,3.75,0,0,0,255,0,0,0,Hành Chính,Sm,,3.75
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/29/2017,Sáu,07:43,17:46,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00014,Bùi Thị Hồng,Văn phòng,Nhân viên,9/30/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/1/2017,Sáu,07:58,18:28,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/2/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/3/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/4/2017,Hai,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/5/2017,Ba,07:57,18:03,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/6/2017,Tư,07:59,18:09,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/7/2017,Năm,08:00,18:18,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/8/2017,Sáu,07:56,18:55,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/9/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/10/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/11/2017,Hai,08:11,19:30,,,,,0.98,7.82,0,0,11,0,0,0,0,Hành Chính,Tr,,7.82
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/12/2017,Ba,07:59,18:06,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/13/2017,Tư,07:59,17:38,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/14/2017,Năm,08:07,18:05,,,,,0.99,7.88,0,0,7,0,0,0,0,Hành Chính,Tr,,7.88
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/15/2017,Sáu,07:58,17:58,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/16/2017,Bảy,07:57,12:03,,,,,0.47,3.75,0,0,0,255,0,0,0,Hành Chính,Sm,,3.75
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/17/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/18/2017,Hai,08:22,17:46,,,,,0.95,7.63,0,0,22,0,0,0,0,Hành Chính,Tr,,7.63
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/19/2017,Ba,08:00,18:01,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/20/2017,Tư,08:11,18:45,,,,,0.98,7.82,0,0,11,0,0,0,0,Hành Chính,Tr,,7.82
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/21/2017,Năm,13:10,18:20,,,,,0.53,4.25,0,0,225,0,0,0,0,Hành Chính,Tr,,4.25
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/22/2017,Sáu,08:00,17:51,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/23/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/24/2017,CN,,,,,,,0,0,0,0,0,0,0,0,0,Không xét,,,0
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/25/2017,Hai,07:56,19:16,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/26/2017,Ba,07:58,18:27,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/27/2017,Tư,08:01,18:57,,,,,1,7.98,0,0,1,0,0,0,0,Hành Chính,Tr,,7.98
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/28/2017,Năm,07:58,17:34,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/29/2017,Sáu,07:59,17:48,,,,,1,8,0,0,0,0,0,0,0,Hành Chính,X,,8
+00016,Đinh Thị Phượng,Văn phòng,Nhân viên,9/30/2017,Bảy,,,,,,,0,0,1,8,0,0,0,0,0,--,V,V,0
