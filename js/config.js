@@ -1,6 +1,11 @@
 var app = angular.module('myApp', []);
 app.controller('myCtrl', function($scope) {
-    var jsonFromFile = readTextFile('data/xuatluoi_sep.csv');
+    var filesPath = ['data/xuatluoi_sep.csv'];
+    var jsonFromFile = [];
+
+    angular.forEach(filesPath, function (file) {
+        jsonFromFile = jsonFromFile.concat(readTextFile(file))
+    });
 
     $scope.users = [];
 

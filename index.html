@@ -16,6 +16,11 @@
 </head>
 <body>
 
+<ul class="nav nav-pills">
+    <li role="presentation" class="active"><a href="index.html">Chấm Công</a></li>
+    <li role="presentation"><a href="kpi.html">KPI</a></li>
+</ul>
+
 <div class="container" ng-app="myApp" ng-controller="myCtrl">
     <ul class="nav nav-tabs">
         <li ng-repeat="user in users"  class="{{ $index == 0 ? 'active' : ''}}"><a data-toggle="tab" href="#{{ user + $index}}">{{ getName(user) }}</a></li>
