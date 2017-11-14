@@ -30,7 +30,7 @@ app.controller('kpiCtrl', function($scope) {
 
             },
             series: [{
-                name: 'Tên Thành Viên',
+                name: 'Trung Bình',
                 colorByPoint: true,
                 data: _getDataInput()
             }]
