@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87c82b1e-23df-4a64-b312-c9885125c9d6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/kpi.js" afterPath="$PROJECT_DIR$/js/kpi.js" />
     </list>
     <ignored path="dtag-time-sheet.iws" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="101" column="69" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="69" />
+            <state relative-caret-position="-15">
+              <caret line="34" column="33" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="33" />
               <folding>
                 <element signature="e#585#806#0" expanded="false" />
                 <element signature="e#3551#4093#0" expanded="false" />
@@ -41,20 +42,18 @@
       <file leaf-file-name="kpi.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/kpi.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-              <folding>
-                <element signature="e#1005#1700#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="147">
+              <caret line="59" column="54" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dtag_HieuTT_KPI_2017 - Aug.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kpi/Dtag_HieuTT_KPI_2017 - Aug.csv">
+      <file leaf-file-name="kpi.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kpi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="139" selection-start-line="24" selection-start-column="139" selection-end-line="24" selection-end-column="139" />
+            <state relative-caret-position="129">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,8 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -207,6 +204,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,10 +220,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/kpi" />
       <recent name="$PROJECT_DIR$/dataKpi" />
       <recent name="$PROJECT_DIR$/js" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data" />
     </key>
   </component>
@@ -301,12 +300,16 @@
       <workItem from="1510196294048" duration="2566000" />
       <workItem from="1510548480208" duration="2336000" />
       <workItem from="1510621112126" duration="1964000" />
-      <workItem from="1510623177039" duration="6101000" />
+      <workItem from="1510623177039" duration="7991000" />
+      <workItem from="1510815110727" duration="76000" />
+      <workItem from="1510881767690" duration="1277000" />
+      <workItem from="1511140977304" duration="10000" />
+      <workItem from="1511751692091" duration="5504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33278000" />
+    <option name="totallyTimeSpent" value="42035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1055" extended-state="0" />
@@ -360,10 +363,104 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="101" column="69" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="69" />
+          <folding>
+            <element signature="e#585#806#0" expanded="false" />
+            <element signature="e#3551#4093#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/kpi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kpi/Dtag_HieuTT_KPI_2017 - Aug.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="139" selection-start-line="24" selection-start-column="139" selection-end-line="24" selection-end-column="139" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1818">
+          <caret line="101" column="69" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="69" />
+          <folding>
+            <element signature="e#585#806#0" expanded="false" />
+            <element signature="e#3551#4093#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/kpi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kpi/Dtag_HieuTT_KPI_2017 - Aug.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="139" selection-start-line="24" selection-start-column="139" selection-end-line="24" selection-end-column="139" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#585#806#0" expanded="false" />
+            <element signature="e#3551#4093#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1818">
+          <caret line="101" column="69" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="69" />
+          <folding>
+            <element signature="e#585#806#0" expanded="false" />
+            <element signature="e#3551#4093#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/kpi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kpi/Dtag_HieuTT_KPI_2017 - Aug.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="139" selection-start-line="24" selection-start-column="139" selection-end-line="24" selection-end-column="139" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -379,9 +476,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="23" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="23" />
-          <folding>
-            <element signature="e#1005#1700#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -473,13 +568,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Downloads/cp160526_thaomoc1.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90188">
-          <caret line="1341" column="10" selection-start-line="1341" selection-start-column="10" selection-end-line="1341" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/cp160526_thaomoc1.sql" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -494,36 +583,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dataKpi/Dtag_HieuTT_KPI_2017 - Aug.csv">
+    <entry file="file://$PROJECT_DIR$/dataKpi/Dtag_HieuTT_KPI_2017 - Aug.csv" />
+    <entry file="file://$PROJECT_DIR$/kpi_chart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kpi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="24" column="82" selection-start-line="24" selection-start-column="82" selection-end-line="24" selection-end-column="82" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kpi/Dtag_HieuTT_KPI_2017 - Aug.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="139" selection-start-line="24" selection-start-column="139" selection-end-line="24" selection-end-column="139" />
+        <state relative-caret-position="138">
+          <caret line="12" column="104" selection-start-line="12" selection-start-column="104" selection-end-line="12" selection-end-column="104" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="101" column="69" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="69" />
+        <state relative-caret-position="-15">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="33" />
           <folding>
             <element signature="e#585#806#0" expanded="false" />
             <element signature="e#3551#4093#0" expanded="false" />
@@ -531,13 +603,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kpi/Dtag_HieuTT_KPI_2017 - Aug.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="99" selection-start-line="24" selection-start-column="99" selection-end-line="24" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kpi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/kpi.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
-          <folding>
-            <element signature="e#1005#1700#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="147">
+          <caret line="59" column="54" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>

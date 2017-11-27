@@ -15,25 +15,24 @@ app.controller('kpiCtrl', function($scope) {
     setTimeout(function () {
         Highcharts.chart('chart', {
             chart: {
-                type: 'column'
+                type: 'spline'
             },
             title: {
                 text: 'Biểu Đồ KPI D-TAG Việt Nam'
             },
             xAxis: {
+                title: {
+                    text: 'Tuần'
+                },
                 type: 'category'
             },
             yAxis: {
                 title: {
-                    text: 'Trung Bình Card làm mỗi tuần'
+                    text: 'Số Card'
                 }
 
             },
-            series: [{
-                name: 'Trung Bình',
-                colorByPoint: true,
-                data: _getDataInput()
-            }]
+            series: _getDataInput()
         });
     }, 0);
     
@@ -41,24 +40,63 @@ app.controller('kpiCtrl', function($scope) {
         var data = [];
 
         angular.forEach(jsonFromFile, function (value, username) {
-            var startDate = value[0]['"Done Date"'];
-            var endDate   = value[value.length - 1]['"Done Date"'];
+            var uName = {
+                name: username,
+                data: []
+            };
 
-            var dates2 = startDate.split('/');
-            var dates = endDate.split('/');
+            angular.forEach(value, function (card) {
+                var date = card['"Done Date"'].split('/');
+                var newDate = new Date('20'+date[0], date[1], date[2]);
 
-            var seconds = (Date.UTC(dates[2], dates[0], dates[1]) - Date.UTC(dates2[2], dates2[0], dates2[1])) / 1000;
+                var getWeek = _getWeek(newDate);
 
-            var totalDate = Math.round(seconds / (24 * 60 * 60 * 365));
+                if(uName.data.length == 0) {
+                    uName.data.push([getWeek, 1]);
+                } else {
+                    if(_hasWeek(uName.data, getWeek)) {
+                        angular.forEach(uName.data, function (item) {
+                            if(item[0] == getWeek) {
+                                item[1] = item[1] + 1
+                            }
+                        });
+                    } else {
+                        uName.data.push([getWeek, 1]);
+                    }
+                }
+            });
 
-            var medium7Day = (totalDate / (value.length)) * 7;
+            console.log(uName);
 
-          data.push({
-              name: username,
-              y: medium7Day
-          })
+            data.push(uName);
         });
 
         return data
+    }
+
+    function _hasWeek(data, week) {
+        for(var i in data) {
+            var item = data[i];
+
+            if(item[0] == week) {
+                return true
+            }
+        }
+
+        return false
+    }
+
+    function _getWeek(target) {
+        var dayNr = (target.getDay() + 6) % 7;
+        var firstThursday = target.valueOf();
+
+        target.setDate(target.getDate() - dayNr + 3);
+        target.setMonth(0, 1);
+
+        if (target.getDay() != 4) {
+            target.setMonth(0, 1 + ((4 - target.getDay()) + 7) % 7);
+        }
+
+        return 1 + Math.ceil((firstThursday - target) / 604800000); // 604800000 = 7 * 24 * 3600 * 1000
     }
 });
