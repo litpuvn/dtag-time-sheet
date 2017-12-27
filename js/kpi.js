@@ -50,10 +50,6 @@ app.controller('kpiCtrl', function($scope) {
                 borderWidth: 1,
                 shadow: false
             },
-            tooltip: {
-                headerFormat: '<b>{point.x}</b><br/>',
-                pointFormat: '{series.name}: {point.y}<br/>Total: {point.stackTotal}'
-            },
             plotOptions: {
                 column: {
                     stacking: 'normal',
@@ -92,12 +88,24 @@ app.controller('kpiCtrl', function($scope) {
         angular.forEach(jsonFromFile, function (value, username) {
             var done = {
                 name: 'DONE',
-                data: []
+                data: [],
+                color: {
+                    linearGradient: { x1: 0, x2: 0, y1: 0, y2: 1 },
+                    stops: [
+                        [0, 'green']
+                    ]
+                }
             };
 
             var over = {
                 name: 'OVER',
-                data: []
+                data: [],
+                color: {
+                    linearGradient: { x1: 0, x2: 0, y1: 0, y2: 1 },
+                    stops: [
+                        [0, 'red']
+                    ]
+                }
             };
 
             angular.forEach(_getCategories(), function (week) {
