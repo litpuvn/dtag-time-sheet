@@ -15,7 +15,7 @@ app.controller('kpiCtrl', function($scope) {
     setTimeout(function () {
         Highcharts.chart('chart', {
             chart: {
-                type: 'spline'
+                type: 'column'
             },
             title: {
                 text: 'Biểu Đồ KPI D-TAG Việt Nam'
@@ -24,51 +24,103 @@ app.controller('kpiCtrl', function($scope) {
                 title: {
                     text: 'Tuần'
                 },
-                type: 'category'
+                categories: _getCategories()
             },
             yAxis: {
+                min: 0,
                 title: {
-                    text: 'Số Card'
+                    text: 'Tổng số card'
+                },
+                stackLabels: {
+                    enabled: true,
+                    style: {
+                        fontWeight: 'bold',
+                        color: (Highcharts.theme && Highcharts.theme.textColor) || 'gray'
+                    }
                 }
-
+            },
+            legend: {
+                align: 'right',
+                x: -30,
+                verticalAlign: 'top',
+                y: 25,
+                floating: true,
+                backgroundColor: (Highcharts.theme && Highcharts.theme.background2) || 'white',
+                borderColor: '#CCC',
+                borderWidth: 1,
+                shadow: false
+            },
+            tooltip: {
+                headerFormat: '<b>{point.x}</b><br/>',
+                pointFormat: '{series.name}: {point.y}<br/>Total: {point.stackTotal}'
+            },
+            plotOptions: {
+                column: {
+                    stacking: 'normal',
+                    dataLabels: {
+                        enabled: true,
+                        color: (Highcharts.theme && Highcharts.theme.dataLabelsColor) || 'white'
+                    }
+                }
             },
             series: _getDataInput()
         });
     }, 0);
-    
-    function _getDataInput() {
+
+    function _getCategories() {
         var data = [];
 
         angular.forEach(jsonFromFile, function (value, username) {
-            var uName = {
-                name: username,
-                data: []
-            };
-
             angular.forEach(value, function (card) {
                 var date = card['"Done Date"'].split('/');
                 var newDate = new Date('20'+date[0], date[1], date[2]);
 
                 var getWeek = _getWeek(newDate);
 
-                if(uName.data.length == 0) {
-                    uName.data.push([getWeek, 1]);
-                } else {
-                    if(_hasWeek(uName.data, getWeek)) {
-                        angular.forEach(uName.data, function (item) {
-                            if(item[0] == getWeek) {
-                                item[1] = item[1] + 1
-                            }
-                        });
-                    } else {
-                        uName.data.push([getWeek, 1]);
-                    }
+                if(data.indexOf(getWeek) == -1) {
+                    data.push(getWeek);
                 }
             });
+        });
 
-            console.log(uName);
+        return data
+    }
 
-            data.push(uName);
+    function _getDataInput() {
+        var data = [];
+
+        angular.forEach(jsonFromFile, function (value, username) {
+            var done = {
+                name: 'DONE',
+                data: []
+            };
+
+            var over = {
+                name: 'OVER',
+                data: []
+            };
+
+            angular.forEach(_getCategories(), function (week) {
+                done.data.push(0);
+                over.data.push(0)
+            });
+
+            angular.forEach(value, function (card) {
+                var date = card['"Done Date"'].split('/');
+                var newDate = new Date('20'+date[0], date[1], date[2]);
+                var getWeek = _getWeek(newDate);
+
+                var status = card['"Status"'];
+
+                if(status == 'OVER') {
+                    over.data[_getCategories().indexOf(getWeek)] = over.data[_getCategories().indexOf(getWeek)] + 1
+                } else {
+                    done.data[_getCategories().indexOf(getWeek)] = done.data[_getCategories().indexOf(getWeek)] + 1
+                }
+
+            });
+
+            data.push(done, over);
         });
 
         return data
