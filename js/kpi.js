@@ -1,13 +1,24 @@
 var app = angular.module('myApp', []);
-app.controller('kpiCtrl', function($scope) {
+app.controller('kpiCtrl', function($scope, $filter) {
     var filesPath = {
         'Trần Trung Hiếu': 'kpi/Dtag_HieuTT_KPI_2017 - Aug.csv'
     };
 
     var jsonFromFile = {};
+    $scope.totalCard = 0;
+    $scope.totalDoneCard = 0;
+    $scope.totalOverCard = 0;
 
     angular.forEach(filesPath, function (value, uesrName) {
-        jsonFromFile[uesrName] = readTextFile(value)
+        jsonFromFile[uesrName] = readTextFile(value);
+        $scope.totalCard = jsonFromFile[uesrName].length;
+        $scope.totalDoneCard = $filter('filter')(jsonFromFile[uesrName], function (item) {
+            return item['"Status"'] != 'OVER'
+        }).length;
+
+        $scope.totalOverCard = $filter('filter')(jsonFromFile[uesrName], function (item) {
+            return item['"Status"'] == 'OVER'
+        }).length;
     });
 
     $scope.users = Object.keys(jsonFromFile);

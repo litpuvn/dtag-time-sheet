@@ -10,22 +10,28 @@
     <script src="js/csv-to-json.js"></script>
 
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-<body>
+<body ng-app="myApp" ng-controller="kpiCtrl" style="margin: auto">
 
-<ul class="nav nav-pills">
-    <li role="presentation"><a href="index.html">Chấm Công</a></li>
-    <li role="presentation" class="active"><a href="#">KPI</a></li>
-</ul>
+    <ul class="nav nav-pills">
+        <li role="presentation"><a href="index.html">Chấm Công</a></li>
+        <li role="presentation" class="active"><a href="#">KPI</a></li>
+    </ul>
 
-<div class="container" ng-app="myApp" ng-controller="kpiCtrl">
-    <div id="chart" style="min-width: 310px; height: 800px; margin: 0 auto"></div>
-</div>
+    <div >
+        <div style="float: left;">
+            <div id="chart" style="min-width: 1200px; height: 800px;"></div>
+        </div>
 
-
+        <ul style="float: left; font-size: 30px;">
+            <li>Tổng Card: {{ totalCard }}</li>
+            <li>Tổng Done: {{ totalDoneCard }}</li>
+            <li>Tổng Over: {{ totalOverCard }}</li>
+        </ul>
+    </div>
 <script src="js/kpi.js"></script>
 </body>
 </html>
