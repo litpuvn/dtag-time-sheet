@@ -19,14 +19,19 @@
         <li role="presentation" class="active"><a href="index.html">Chấm Công</a></li>
         <li role="presentation"><a href="kpi.html">KPI</a></li>
     </ul>
-    <div class="container">
+    <div>
         <ul class="nav nav-tabs">
             <li ng-repeat="user in users"  class="{{ $index == 0 ? 'active' : ''}}"><a data-toggle="tab" href="#{{ user + $index}}">{{ getName(user) }}</a></li>
         </ul>
 
         <div class="tab-content">
             <div ng-repeat="user in users" id="{{ user + $index}}" class="tab-pane fade in {{ $index == 0 ? 'active' : '' }}">
-                <div id="{{ user }}" style="min-width: 310px; height: 800px; margin: 0 auto"></div>
+                <div id="{{ user }}" style="float: left; min-width: 1200px; height: 800px; margin: 0 auto"></div>
+
+                <ul style="float: left; font-size: 30px;">
+                    <li>Tổng thời gian làm việc: {{ totalTime[user].totalTime }} Giờ</li>
+                    <li>Tổng thời gian quá giờ: {{  totalTime[user].totalOver  }} Giờ</li>
+                </ul>
             </div>
         </div>
     </div>

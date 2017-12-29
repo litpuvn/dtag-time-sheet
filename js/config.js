@@ -25,6 +25,26 @@ app.controller('myCtrl', function($scope) {
         }
     };
 
+    $scope.totalTime = {};
+
+    angular.forEach($scope.users, function (item) {
+        var dataInput = _getDataInput(item);
+        var dataOutput = _getDataOutput(item);
+
+        var totalTime = 0;
+        var totalOver = 0;
+
+        angular.forEach(dataOutput, function (output, index) {
+            totalTime = output[1] - dataInput[index][1];
+            totalOver = output[1] - 55800000
+        });
+
+        $scope.totalTime[item] = {
+            totalTime: totalTime/60/1000,
+            totalOver: totalOver/60/1000
+        };
+    });
+
     setTimeout(function () {
         angular.forEach($scope.users, function (item) {
             var dataInput = _getDataInput(item);
